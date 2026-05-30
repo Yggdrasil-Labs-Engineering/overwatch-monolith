@@ -1,0 +1,17 @@
+[
+    {
+        "record": {
+            "endpoint": "/api/orders",
+            "risk": "HIGH RISK",
+            "stability": "DEGRADED",
+            "findings": [
+                {
+                    "severity": "HIGH",
+                    "title": "JWT Validation Failure"
+                }
+            ],
+            "timestamp": "2026-05-29 19:30:00"
+        },
+        "hash": "bd0a3c8aad9ff2be87d70f50ce1dc5a990e726db76585f8990ed5237cf70653d"
+    }
+]
