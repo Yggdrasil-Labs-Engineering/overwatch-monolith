@@ -6,7 +6,7 @@
 
 > **Preserving Operational Intelligence Across Time.**
 
-<img width="1536" height="1024" alt="ChatGPT Image Aug 1, 2026, 06_34_21 PM" src="https://github.com/user-attachments/assets/c8e3aaec-a4d5-4690-b3da-058550ad3327" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 1, 2026, 06_35_56 PM" src="https://github.com/user-attachments/assets/ed8470fe-1827-405a-ae10-fec746ae13fb" />
 
 ---
 
